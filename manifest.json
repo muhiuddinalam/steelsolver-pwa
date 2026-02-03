@@ -4,18 +4,25 @@
   "description": "Steel calculation tools and calculators",
   "start_url": "https://www.steelsolver.com/",
   "display": "standalone",
-  "background_color": "#fffdfc",
+  "background_color": "#ffffff",
   "theme_color": "#3d73dd",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192/3d73dd/ffffff?text=SS",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "https://www.steelsolver.com/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
     },
     {
-      "src": "https://via.placeholder.com/512/3d73dd/ffffff?text=SteelSolver",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Steel_icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Steel_icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
