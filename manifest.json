@@ -1,0 +1,21 @@
+{
+  "name": "SteelSolver",
+  "short_name": "SteelSolver",
+  "description": "Steel calculation tools and calculators",
+  "start_url": "https://www.steelsolver.com/",
+  "display": "standalone",
+  "background_color": "#fffdfc",
+  "theme_color": "#3d73dd",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/3d73dd/ffffff?text=SS",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/3d73dd/ffffff?text=SteelSolver",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
