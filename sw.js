@@ -1,4 +1,4 @@
-// SteelSolver Service Worker - Simple
+// SteelSolver Service Worker
 const CACHE_NAME = 'steelsolver-v1';
 
 self.addEventListener('install', event => {
